@@ -1,5 +1,5 @@
 # numerical_analysisUI
-A program using some concepts of scientific computing, using python libraries such as numpy, matplotlib and tkinter.
+
 
 ## Table of Contents
 
@@ -15,7 +15,8 @@ This project was part of the numer
 
 ## Setup
 To run this project, instal it locally using npm:
-...
+
+```
 $ cd ../lorem
 $ npm install
 $ spm start
