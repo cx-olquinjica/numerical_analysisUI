@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Setup] (#Setup)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#Setup)
 
 ## General info
 This project was part of the numer
